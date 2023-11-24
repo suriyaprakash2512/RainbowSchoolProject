@@ -1,0 +1,20 @@
+Suresh, 20, Male, Grade 10, 123 park Avenue, chennai, sureshabc@email.com
+Kavita sambath,14 , Female, Grade 11, 736 Taj Mahal Road, Agra,  kavita.sambath@email.com
+Ajithkumar , 19, Male, Grade 4, east4th Street, delhi, ajith.123g@email.com
+Deepika h, 17, Female, Grade 11, 210 Ganges Road, Kolkata,  deepika.h@email.com
+venkat, 17, Male, Grade 7, 453 yamuna nagar, Chennai,  venkatkumar@email.com
+Karansharma, 16, Male, Grade 10, Marine Drive, mumbai, karansharma.d@email.com
+Priya Patel, 18, Female, Grade 6, 456 Gandhi Road, Mumbai, abcdpatel@email.com
+Ankit pavan, 17, Male, Grade 11, 789 Vihar, Kolkata,  ankitpavan@email.com
+Aarti Reddy, 14, Female, Grade 8, 321 Nandi Hills, Bengaluru,  aartireddysnra@email.com
+Suresh Verma, 16, Male, Grade 10, 567 ashok nagar, kerla, suresh.verma@email.com
+Vikram Desai, 15, Male, Grade 9, vinayagar Street, Tamilnadu, vikram.desai@email.com
+Rahul Sharma, 16, Male, Grade 10, 654 Gateway Colony, Pune,  rahul.sharma@email.com
+Ananya pavi, 14, Female, Grade 11, 210 Victoria colony, Chennai, ananyapavi@email.com
+Arjun Patel, 15, Male, Grade 9, 123 Lotus Nagar, Surat,  arjun.patel@email.com
+Harini, 16, Female, Grade 10, 456 Rose Garden, Tamilnadu, harini345@email.com
+Rohit sharma, 17, Male, Grade 11, 789 wankade, Dehradun, rohit.sharma@email.com
+Shruti Nair, 14, Female, Grade 8, 321 Coconut Avenue, Kochi, shruti.nair@email.com
+Vikas madhav, 16, Male, Grade 11, 567 Taj Mahal Road, mettur,  vikas.madhav@email.com
+ashok bhai, 18, Male, Grade 12, 987 Red Fort Apartments, Jaipur, ashokbhai123@email.com
+virat kohli,19,Male, Grade 17,chinnaswamy road,bangalore, kohli.virat@email.com
